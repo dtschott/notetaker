@@ -1,0 +1,5 @@
+//Figure out why blank notes have the same id (state not updating = date() not updating?)
+//Add validation for inputs
+//Touch up stylings
+
+Add themes?
